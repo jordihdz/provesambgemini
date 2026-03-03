@@ -20,11 +20,9 @@ Este proyecto forma parte de mi formación en **Analítica de Datos**. Consiste 
    ```bash
    git clone [https://github.com/tu-usuario/mi-primer-proyecto.git](https://github.com/tu-usuario/mi-primer-proyecto.git)
 
-2. nstala las dependencias:
-
-Bash
-
-pip install -r requirements.txt
+2. Instala las dependencias:
+   ```bash
+   pip install -r requirements.txt
 
 3. Abre el archivo mi_primer_analisis.ipynb en VS Code y ejecuta las celdas.
 
